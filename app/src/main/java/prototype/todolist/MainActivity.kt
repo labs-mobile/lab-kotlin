@@ -1,4 +1,4 @@
-package com.example.lab_kotlin
+package prototype.todolist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

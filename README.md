@@ -5,4 +5,8 @@ Ce lab est un travail de validation de Module 1 (Principes de base du Kotlin) de
 
 ## Travail à faire 
 
+
 - Réalisation des classes kotlin du prototype TodoList
+- Programme de Test
+- Débugage de programme de test
+
