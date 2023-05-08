@@ -5,10 +5,14 @@ Ce lab est un travail de validation de Module 1 (Principes de base du Kotlin) de
 
 ## Travail à faire 
 
+- Changer la version de AGP : Andrid Grale Plugin
+  - Android Gradle plugin and Android Studio compatibility
+    - https://developer.android.com/studio/releases#android_gradle_plugin_and_android_studio_compatibility
 - Réalisation des classes kotlin du prototype TodoList
   - TaskEntry
   - TaskDao
   - TaskRepository
 - Programme de Test
 - Débugage de programme de test
+
 
