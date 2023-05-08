@@ -5,7 +5,7 @@ import prototype.todolist.data.TaskEntry
 import prototype.todolist.data.TaskRepository
 
 fun main (){
-
+    print("Programme de Test")
     val taskRepository = TaskRepository()
     // Ajouter une tâche
     val task = TaskEntry(1,"Task 1",1,System.currentTimeMillis())
